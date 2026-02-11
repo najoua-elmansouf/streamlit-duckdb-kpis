@@ -18,7 +18,7 @@ from utils import (
 )
 
 # Get the parent directory of APP folder to access data
-DB_PATH = r"c:\Users\masis.zovikoglu\streamlit-duckdb-kpis-1\data\project.db"
+DB_PATH = "data/project.db"
 
 # ---------------------------
 # Page config
