@@ -1,4 +1,4 @@
-# 🧪 Rapport de Tests - Application Streamlit-DuckDB
+#  Rapport de Tests - Application Streamlit-DuckDB
 
 **Testeur** : Mohammed  
 **Date** : 11 février 2026
