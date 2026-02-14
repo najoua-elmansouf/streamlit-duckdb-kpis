@@ -194,4 +194,4 @@ L'application est de très haute qualité avec :
 **Signatures** :
 - Testeur : Mohammed
 - Date : 11/02/2026
-- Validé par chef de projet : Najoua ___________
+- Validé par chef de projet : Najoua EL MANSOUF
