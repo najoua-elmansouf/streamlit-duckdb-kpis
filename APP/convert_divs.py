@@ -51,5 +51,8 @@ def convert_section_cards(filepath):
     print("Please check the file for indentation issues and test the app")
 
 if __name__ == "__main__":
-    filepath = r"c:\Users\masis.zovikoglu\streamlit-duckdb-kpis-1\APP\app.py"
-    convert_section_cards(filepath)
+    import os
+    # Use relative path from script location
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    target_filepath = os.path.join(script_dir, "app.py")
+    convert_section_cards(target_filepath)
